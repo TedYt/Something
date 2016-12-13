@@ -14,3 +14,5 @@
 2、项目中用到了很多handle来处理消息，而message ID直接用数字，而且handle对象传来传去，不知道handler不会再什么地方被调用
 	我建议message ID采用整形常量来表示其意义
 	另外在message处理的地方加上注释，说明可能会被什么地方调用
+
+http://www.tuicool.com/articles/VVRfQjU
